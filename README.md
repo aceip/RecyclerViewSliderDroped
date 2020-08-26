@@ -1,0 +1,2 @@
+# RecyclerViewSliderDroped
+RecyclerView滑动删除
